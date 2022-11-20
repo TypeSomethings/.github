@@ -25,7 +25,7 @@ para os projetos web.
 
 |Meio |Contato|
 :---: |:---: |
-📤Gmail | typesomethings@gmail.com|
+📤Gmail | typesomethingsorg@gmail.com|
 🌐Instagram | @typesomethings |
 🌐Facebook | TypeSomethings |
 📞WhatsApp | ####
