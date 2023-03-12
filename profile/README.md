@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Olá, Bem vindo/a a **Type Somethings** 🖖🇦🇴
 
 - Somos uma organização constituída (até agora) por dois membros fundadores @DevDario e @MrBalla .
@@ -49,3 +51,4 @@ Caso você tenha notado algum erro, ou tenha uma ideia diferente de como podemos
 :---: | :---: | :---: | :---: |
 Dário Silva | Fundador | Júnior FullStack, Web Designer e software Dev | [@DevDario](https://github.com/DevDario) |
 Pedro Balla | Fundador | Front-end Dev, Web Designer e software Dev | [@MrBalla](https://github.com/MrBalla) |
+</div>
